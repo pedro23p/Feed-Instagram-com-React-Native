@@ -11,7 +11,7 @@ export default function App() {
         nome:'Matheus Silva',
         descricao: 'Mais um dia de bugs',
         imgperfil:'https://sujeitoprogramador.com/instareact/fotoPerfil1.png',
-        imgpublicacao:'https://suejtioprogramador.com/instareact/foto1.png',
+        imgpublicacao:'https://sujeitoprogramador.com/instareact/foto1.png',
         likeada: true,
         likers:1
     },
@@ -20,7 +20,7 @@ export default function App() {
         nome:'Pedro Paulo',
         descricao: 'Coding',
         imgperfil:'https://sujeitoprogramador.com/instareact/fotoPerfil2.png',
-        imgpublicacao:'https://suejtioprogramador.com/instareact/foto2.png',
+        imgpublicacao:'https://sujeitoprogramador.com/instareact/foto2.png',
         likeada: true,
         likers:12
     },
@@ -29,7 +29,7 @@ export default function App() {
         nome:'Lucas Braga',
         descricao: 'bugs',
         imgperfil:'https://sujeitoprogramador.com/instareact/fotoPerfil3.png',
-        imgpublicacao:'https://suejtioprogramador.com/instareact/foto3.png',
+        imgpublicacao:'https://sujeitoprogramador.com/instareact/foto3.png',
         likeada: false,
         likers:0
     }
