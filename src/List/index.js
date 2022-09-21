@@ -105,6 +105,6 @@ const styles = StyleSheet.create({
   },
   descRodape:{
     fontSize:15,
-    paddingLeft:7
+    paddingLeft:6
   }
 })
