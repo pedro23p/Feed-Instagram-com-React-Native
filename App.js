@@ -18,7 +18,7 @@ export default function App() {
     {
       id:'2',
         nome:'Pedro Paulo',
-        descricao: 'Coding',
+        descricao: 'Code',
         imgperfil:'https://sujeitoprogramador.com/instareact/fotoPerfil2.png',
         imgpublicacao:'https://sujeitoprogramador.com/instareact/foto2.png',
         likeada: true,
